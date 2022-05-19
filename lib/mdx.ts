@@ -109,7 +109,7 @@ export async function getFileBySlug<T>(type: 'authors' | 'blog', slug: string | 
   }
 }
 
-export async function getAllFilesFrontMatter(folder: 'blog') {
+export async function getAllFilesFrontMatter(folder: 'blog' | 'blog/real') {
   const prefixPaths = path.join(root, 'data', folder)
 
   const files = getAllFilesRecursively(prefixPaths)
@@ -119,6 +119,7 @@ export async function getAllFilesFrontMatter(folder: 'blog') {
   files.forEach((file: string) => {
     // Replace is needed to work on Windows
     const fileName = file.slice(prefixPaths.length + 1).replace(/\\/g, '/')
+    // console.log(fileName)
     // Remove Unexpected File
     if (path.extname(fileName) !== '.md' && path.extname(fileName) !== '.mdx') {
       return
