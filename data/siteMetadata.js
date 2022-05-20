@@ -1,5 +1,5 @@
 const siteMetadata = {
-  title: 'Christian Blog',
+  title: 'Grow As A Christian',
   author: 'Cheng Chin Lim',
   headerTitle: 'Grow As A Christian',
   description: 'Grow and experience the Lord every day',
@@ -10,7 +10,7 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
+  email: 'contact@growasachristian.com',
   github: 'https://github.com',
   twitter: 'https://twitter.com/Twitter',
   facebook: 'https://facebook.com',

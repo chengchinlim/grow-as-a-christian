@@ -1,16 +1,14 @@
 ---
-name: Tails Azimuth
+name: Cheng Chin Lim
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Recreational blogger who loves the Lord
+email: contact@growasachristian.com
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Hi, nice to meet you! I am the main contributor to the website.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+I learned a lot from brothers and sisters in Christ in weekly fellowships. I believe that if I construct those learnings in words, I could understand even more and apply the values in my daily life.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I hope my learnings could remind my fellow readers that Christ is good and we always have room to grow in Him.
+
+If you have any comments about the content or the website, do not hesitate to shoot me an email. I will reply as soon as I can.
