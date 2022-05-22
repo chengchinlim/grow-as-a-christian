@@ -31,7 +31,7 @@ const NewsletterForm = ({ title = 'Subscribe to get notified when there is a new
     inputEl.current.value = ''
     setError(false)
     setSubscribed(true)
-    setMessage('Successfully! 🎉 You are now subscribed.')
+    setMessage(' 🎉 Please confirm your subscription from the email we sent to your inbox')
   }
 
   return (
@@ -47,7 +47,7 @@ const NewsletterForm = ({ title = 'Subscribe to get notified when there is a new
             className="w-72 rounded-md px-4 focus:border-transparent focus:outline-none focus:ring-2 focus:ring-primary-600 dark:bg-black"
             id="email-input"
             name="email"
-            placeholder={subscribed ? "You're subscribed !  🎉" : 'Enter your email'}
+            placeholder={'Enter your email'}
             ref={inputEl}
             required
             type="email"
@@ -68,6 +68,11 @@ const NewsletterForm = ({ title = 'Subscribe to get notified when there is a new
       </form>
       {error && (
         <div className="w-72 pt-2 text-sm text-red-500 dark:text-red-400 sm:w-96">{message}</div>
+      )}
+      {subscribed && (
+        <div className="text-black-500 w-72 pt-2 text-sm dark:text-red-400 sm:w-96">
+          {'🎉 Please confirm your subscription from the email we sent to your inbox'}
+        </div>
       )}
     </div>
   )
