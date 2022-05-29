@@ -109,7 +109,7 @@ export async function getFileBySlug<T>(type: 'authors' | 'blog', slug: string | 
   }
 }
 
-export async function getAllFilesFrontMatter(folder: 'blog' | 'blog/real') {
+export async function getAllFilesFrontMatter(folder: 'blog') {
   const prefixPaths = path.join(root, 'data', folder)
 
   const files = getAllFilesRecursively(prefixPaths)
