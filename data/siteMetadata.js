@@ -5,8 +5,8 @@ const siteMetadata = {
   description: 'Grow and experience the Lord every day',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteUrl: 'https://grow-as-a-christian.vercel.app/',
+  siteRepo: 'https://github.com/chengchinlim/grow-as-a-christian.git',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
