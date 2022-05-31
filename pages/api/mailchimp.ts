@@ -14,6 +14,8 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
     return res.status(400).json({ error: 'Email is required' })
   }
   console.log(`Current Env: ${process.env.NODE_ENV}`)
+  console.log(`Server: ${process.env.MAILCHIMP_API_SERVER}`)
+  console.log(`ListId: ${process.env.MAILCHIMP_AUDIENCE_ID}`)
 
   try {
     await mailchimp.lists.addListMember(process.env.MAILCHIMP_AUDIENCE_ID, {
