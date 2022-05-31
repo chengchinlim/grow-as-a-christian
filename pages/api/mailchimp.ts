@@ -1,8 +1,6 @@
 import { NextApiRequest, NextApiResponse } from 'next'
 import mailchimp from '@mailchimp/mailchimp_marketing'
 
-require('custom-env').env('prod')
-
 mailchimp.setConfig({
   apiKey: process.env.MAILCHIMP_API_KEY,
   server: process.env.MAILCHIMP_API_SERVER, // E.g. us1
