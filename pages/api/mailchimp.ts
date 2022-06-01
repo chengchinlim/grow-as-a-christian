@@ -13,7 +13,7 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
   if (!email) {
     return res.status(400).json({ error: 'Email is required' })
   }
-  console.log(`Current Env: ${process.env.NODE_ENV}`)
+  console.log(`Random: ${process.env.RANDOM}`)
   console.log(`Server: ${process.env.MAILCHIMP_API_SERVER}`)
   console.log(`ListId: ${process.env.MAILCHIMP_AUDIENCE_ID}`)
 
