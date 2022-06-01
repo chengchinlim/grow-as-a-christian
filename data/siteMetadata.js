@@ -5,7 +5,7 @@ const siteMetadata = {
   description: 'Grow and experience the Lord every day',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://grow-as-a-christian.vercel.app/',
+  siteUrl: 'https://www.growasachristian.com',
   siteRepo: 'https://github.com/chengchinlim/grow-as-a-christian.git',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
