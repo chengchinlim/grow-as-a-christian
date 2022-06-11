@@ -1,7 +1,7 @@
 const siteMetadata = {
-  title: 'Grow As A Christian',
+  title: 'Grow as a Christian',
   author: 'Cheng Chin Lim',
-  headerTitle: 'Grow As A Christian',
+  headerTitle: 'Grow as a Christian',
   description: 'Grow and experience the Lord every day',
   language: 'en-us',
   theme: 'system', // system, dark or light
