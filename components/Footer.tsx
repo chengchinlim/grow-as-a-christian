@@ -31,3 +31,5 @@ export default function Footer() {
     </footer>
   )
 }
+
+// Check if staging env working
