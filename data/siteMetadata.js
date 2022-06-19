@@ -13,9 +13,10 @@ const siteMetadata = {
   email: 'contact@growasachristian.com',
   github: 'https://github.com',
   twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
+  facebook: 'https://www.facebook.com/growasachristian',
   youtube: 'https://youtube.com',
   linkedin: 'https://www.linkedin.com',
+  instagram: 'https://instagram.com/growasachristian',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
