@@ -5,10 +5,22 @@ occupation: Recreational blogger who loves the Lord
 email: contact@growasachristian.com
 ---
 
-Hi, nice to meet you! I am the main contributor to the website.
+Hi, nice to meet you! I am the main contributor to the website. Brief introduction about my background, I was born in a Christian family (Evangelical Protestant) and grew up attending church services weekly.
 
-I learned a lot from brothers and sisters in Christ in weekly fellowships. I believe that if I construct those learnings in words, I could understand even more and apply the values in my daily life.
+I have been a believer all my life, but I became more passionate when studying abroad in the US. Living alone taught me that Lord Jesus Christ is the most reliable when I need Him.
 
-I hope my learnings could remind my fellow readers that Christ is good and we always have room to grow in Him.
+Through ups and downs throughout my college and work life, I rely on Him even more and know that He takes care of me and will not forsake me.
 
-If you have any comments about the content or the website, do not hesitate to shoot me an email. I will reply as soon as I can.
+I currently work in Texas, US, and attend Church in Austin (a non-denominational church). Besides Sunday mornings, I participate in weekly fellowships with other believers and small groups. Those keep my Christian life more active.
+
+Nowadays, we live in a fast-paced world that overwhelms us. So many of us, including me, are anxious about our future. Even though we want to submit our burdens to the Lord, our flesh always fails to do so.
+
+**I firmly believe that our spiritual health directly impacts our mental health. Therefore, the mission of Grow as a Christian blogging site is to strengthen our spiritual connection with the Lord Jesus Christ.**
+
+Being healthy spiritually is a go-to way to be healthy mentally. I want to share what I learned or discovered through blogging so my fellow readers can apply the information to grow spiritually.
+
+Having fellowships with other believers is precious to me. I believe constructing my learnings with them in words helps us apply the concepts or practices to grow spiritually through reading.
+
+Let us not forget that Christ is good, and we always have room to grow in Him.
+
+If you have any comments about the content or the website, do not hesitate to shoot me an email; I will reply as soon as I can.
