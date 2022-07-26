@@ -12,8 +12,6 @@ layout: PostSimple
 
 Photo by [Vince Fleming](https://unsplash.com/@vincefleming?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/baptism?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
-Baptism. What and why?
-
 Most attendees of weekly church gatherings are Christians. But this week, we were happy to have the parents of one of our leaders in the group. They came to the US to help care for their first grandkid.
 
 During the discussion, church members urged them to get baptized as soon as possible. I strongly felt that this was not the right approach to baptism. It alarmed me, and I voiced out that baptism is a big decision in our life.
