@@ -2,7 +2,7 @@
 title: 'Seen Humanity through My Fixed Zipper'
 date: 2022-08-03T05:00:00Z
 lastmod: '2022-08-03'
-tags: ['grace']
+tags: ['grace', 'anxiety']
 draft: false
 summary: 'The customer who got helped previously walked to me. He knew that I was overwhelmed by my problem...'
 layout: PostSimple
